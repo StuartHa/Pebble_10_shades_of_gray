@@ -1,0 +1,17 @@
+{
+  "uuid": "dfc31062-ce14-4055-a44a-3bde063690bf",
+  "shortName": "Dithering",
+  "longName": "Dithering",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
